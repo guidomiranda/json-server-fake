@@ -1,4 +1,4 @@
-{
+const respuestaVision = {
   "codRes": "SIN_ERROR",
   "menRes": "OK",
   "registros": [
@@ -423,4 +423,7 @@
       "importe": null
     }
   ]
-}
+};
+
+module.exports = { respuestaVision };
+

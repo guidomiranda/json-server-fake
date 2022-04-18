@@ -1,0 +1,22 @@
+{
+  "name": "json-server-fake",
+  "version": "1.0.0",
+  "description": "Servidor de respuestas JSON falsas para pruebas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guidomiranda/json-server-fake.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guidomiranda/json-server-fake/issues"
+  },
+  "homepage": "https://github.com/guidomiranda/json-server-fake#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
