@@ -5,7 +5,7 @@ const respuestaVision = {
     {
       "cod_comercio": "1",
       "nro_cuenta": "900600278",
-      "saldo_clearing": "20000000.00",
+      "saldo_clearing": "482245208.00",
       "denominacion_cuenta": null,
       "nro_cheque": null,
       "fecha_deposito": null,
@@ -29,7 +29,7 @@ const respuestaVision = {
     {
       "cod_comercio": "3",
       "nro_cuenta": "900614927",
-      "saldo_clearing": "30044378.00",
+      "saldo_clearing": "30025537.00",
       "denominacion_cuenta": null,
       "nro_cheque": null,
       "fecha_deposito": null,
@@ -41,7 +41,7 @@ const respuestaVision = {
     {
       "cod_comercio": "4",
       "nro_cuenta": "900615038",
-      "saldo_clearing": "9136744.00",
+      "saldo_clearing": "21136744.00",
       "denominacion_cuenta": null,
       "nro_cheque": null,
       "fecha_deposito": null,
@@ -125,7 +125,7 @@ const respuestaVision = {
     {
       "cod_comercio": "11",
       "nro_cuenta": "900618701",
-      "saldo_clearing": "8294473.00",
+      "saldo_clearing": "10000473.00",
       "denominacion_cuenta": null,
       "nro_cheque": null,
       "fecha_deposito": null,
@@ -149,7 +149,7 @@ const respuestaVision = {
     {
       "cod_comercio": "13",
       "nro_cuenta": "900619441",
-      "saldo_clearing": "4404461.00",
+      "saldo_clearing": "10013461.00",
       "denominacion_cuenta": null,
       "nro_cheque": null,
       "fecha_deposito": null,
@@ -281,7 +281,7 @@ const respuestaVision = {
     {
       "cod_comercio": "26",
       "nro_cuenta": "900623224",
-      "saldo_clearing": "37500196.00",
+      "saldo_clearing": "38266882.00",
       "denominacion_cuenta": null,
       "nro_cheque": null,
       "fecha_deposito": null,
@@ -341,7 +341,7 @@ const respuestaVision = {
     {
       "cod_comercio": "31",
       "nro_cuenta": "900623932",
-      "saldo_clearing": "2745706.00",
+      "saldo_clearing": "5000006.00",
       "denominacion_cuenta": null,
       "nro_cheque": null,
       "fecha_deposito": null,
