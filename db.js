@@ -5,7 +5,7 @@ const respuestaVision = {
     {
       "cod_comercio": "1",
       "nro_cuenta": "900600278",
-      "saldo_clearing": "374326743.00",
+      "saldo_clearing": "20000000.00",
       "denominacion_cuenta": null,
       "nro_cheque": null,
       "fecha_deposito": null,
